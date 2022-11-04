@@ -32,7 +32,7 @@ app.use(
 app.use(compression());
 app.use(express.json());
 
-const slackUsername = "princecodes247";
+const slackUsername = "codes_oracle";
 
 app.get("/", (_, res: Response) => {
   res.send("Hello World");

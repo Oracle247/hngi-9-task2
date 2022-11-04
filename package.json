@@ -1,9 +1,9 @@
 {
   "name": "hng9_task_1",
   "version": "1.0.0",
-  "description": "HNG9 First task: A simple server",
+  "description": "HNG9 Second task: A simple server",
   "main": "dist/app.js",
-  "author": "Prince Gbalam",
+  "author": "Oracle Codes",
   "license": "MIT",
   "scripts": {
     "prestart": "npx tsc",
